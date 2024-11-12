@@ -1,0 +1,11 @@
+{
+  "main": "http://localhost:5173",
+  "logo": "./public/WechatIMG23756.jpg",
+  "features": [
+    {
+      "code": "hello",
+      "explain": "hello world",
+      "cmds":["hello", "你好"]
+    }
+  ]
+}
